@@ -13,7 +13,7 @@ use App\Http\Controllers\FrontendController\DomainPageController;
 //******************// 
 // All Index Pages Routing
 Route::controller(HomeController::class)->group(function () {
-    Route::get('/', 'indexOne')->name('home');
+    Route::get('/', 'indexSeven')->name('home');
     Route::get('index-two', 'indexTwo')->name('indexTwo');
     Route::get('index-three', 'indexThree')->name('indexThree');
     Route::get('index-four', 'indexFour')->name('indexFour');
