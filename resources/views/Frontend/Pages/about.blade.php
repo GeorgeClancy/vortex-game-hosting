@@ -2,7 +2,7 @@
 @section('title', 'About')
 @section('content')
     <!-- HEADER AREA -->
-        @include('Frontend.Includes.Headers.headerOne')
+        @include('Frontend.Includes.Headers.headerFive')
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
@@ -11,15 +11,13 @@
             <div class="row">
                 <div class="banner-area">
                     <div class="rts-hosting-banner rts-hosting-banner__content about__banner">
-                        <span class="starting__price" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">About Hostie</span>
+                        <span class="starting__price" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">About Us</span>
                         <h1 class="banner-title" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
-                            A Unique Team Behind Your Online Success
+                            The Team Behind Vortex Game Hosting
                         </h1>
-                        <p class="slogan" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">What makes Site Ground unique is our extraordinary
-                            team of individuals who put their passion.</p>
+                        <p class="slogan" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">We're a team of gamers who built the hosting service we always wanted — fast, reliable, and built for the community.</p>
                         <div class="hosting-action" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
-                            <a href="{{route('pricingComparision')}}" class="btn__two secondary__bg secondary__color">View Plan <i class="fa-regular fa-arrow-right"></i></a>
-                            <a href="{{route('pricing')}}" class="btn__white">Starting @ $10.00/mo</a>
+                            <a href="{{route('pricing')}}" class="btn__two secondary__bg secondary__color">View Plans <i class="fa-regular fa-arrow-right"></i></a>
                         </div>
                     </div>
                     <div class="rts-hosting-banner__image about">

@@ -2,7 +2,7 @@
 @section('title', 'Pricing')
 @section('content')
     <!-- HEADER AREA -->
-        @include('Frontend.Includes.Headers.headerOne')
+        @include('Frontend.Includes.Headers.headerFive')
     <!-- HEADER AREA END -->
 
     <!-- shared hosting banner -->
@@ -14,8 +14,8 @@
                         <div class="rts-hosting-banner rts-hosting-banner__content pricing__banner">
                             <span class="starting__price" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">Comparison Pricing</span>
                             <h1 class="banner-title" data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">
-                                Compare Hostie Dedicated
-                                Hosting Plans
+                                Vortex Game Hosting
+                                Server Plans
                             </h1>
                             <div class="feature mb-0" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
                                 <ul class="feature__list">

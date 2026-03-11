@@ -31,9 +31,7 @@
                             <li><a href="{{ route('about') }}">About Us</a></li>
                             <li><a href="{{ route('pricing') }}">Pricing</a></li>
                             <li><a href="{{ route('contact') }}">Contact</a></li>
-                            <li><a href="{{ route('knowledgebase') }}">Knowledgebase</a></li>
-                            <li><a href="{{ route('technology') }}">Technology</a></li>
-                            <li><a href="{{ route('dataCenter') }}">Data Centers</a></li>
+                            <li><a href="https://vortexgamehosting.co.uk/billing/submitticket.php" target="_blank" rel="noopener noreferrer">Submit a Ticket</a></li>
                         </ul>
                     </div>
                 </div>
@@ -45,11 +43,11 @@
                     <h5 class="widget-title">Server Features</h5>
                     <div class="rts-footer__widget--menu">
                         <ul>
-                            <li><a href="{{ route('dataCenter') }}">DDoS Protection</a></li>
-                            <li><a href="{{ route('technology') }}">NVMe SSDs</a></li>
-                            <li><a href="{{ route('technology') }}">Instant Setup</a></li>
+                            <li><a href="#">DDoS Protection</a></li>
+                            <li><a href="#">NVMe SSDs</a></li>
+                            <li><a href="#">Instant Setup</a></li>
                             <li><a href="http://cp.vortexgamehosting.co.uk:8880/" target="_blank" rel="noopener noreferrer">TCAdmin Panel</a></li>
-                            <li><a href="{{ route('dataCenter') }}">Global Locations</a></li>
+                            <li><a href="#">Global Locations</a></li>
                             <li><a href="{{ route('contact') }}">24/7 Support</a></li>
                         </ul>
                     </div>

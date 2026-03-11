@@ -15,35 +15,19 @@
                         <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/dayz" target="_blank" rel="noopener noreferrer">DayZ</a></li>
                         <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/ark-se" target="_blank" rel="noopener noreferrer">Ark SE</a></li>
                         <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/palworld" target="_blank" rel="noopener noreferrer">Palworld</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/project-zomboid" target="_blank" rel="noopener noreferrer">Project Zomboid</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/7dtd" target="_blank" rel="noopener noreferrer">7 Days to Die</a></li>
                         <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/scum" target="_blank" rel="noopener noreferrer">Scum</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/garrys-mod" target="_blank" rel="noopener noreferrer">Garry's Mod</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/7dtd" target="_blank" rel="noopener noreferrer">7 Days to Die</a></li>
                         <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers" target="_blank" rel="noopener noreferrer">View All Games</a></li>
                     </ul>
                 </li>
                 <li>
                     <a href="{{ route('pricing') }}" class="mobile-menu-link">Pricing</a>
                 </li>
-                <li class="has-droupdown">
-                    <a href="#" class="main">Features</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="{{ route('technology') }}">Technology</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('dataCenter') }}">Data Centers</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('gameDetails') }}">Game Details</a></li>
-                    </ul>
-                </li>
                 <li>
                     <a href="{{ route('about') }}" class="mobile-menu-link">About</a>
                 </li>
-                <li class="has-droupdown">
-                    <a href="#" class="main">Support</a>
-                    <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="{{ route('contact') }}">Contact Us</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('faq') }}">FAQ</a></li>
-                        <li><a class="mobile-menu-link" href="{{ route('knowledgebase') }}">Knowledgebase</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/submitticket.php" target="_blank" rel="noopener noreferrer">Submit a Ticket</a></li>
-                    </ul>
+                <li>
+                    <a href="{{ route('contact') }}" class="mobile-menu-link">Contact</a>
                 </li>
             </ul>
         </nav>

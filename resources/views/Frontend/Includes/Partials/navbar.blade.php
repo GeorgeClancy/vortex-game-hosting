@@ -38,27 +38,12 @@
                 <a href={{ route('pricing') }} class=hostie-dropdown-main-element>Pricing</a>
             </li>
 
-            <li class=menu-item hostie-has-dropdown>
-                <a href=# class=hostie-dropdown-main-element>Features</a>
-                <ul class=hostie-submenu list-unstyled menu-pages>
-                    <li class=nav-item><a class=nav-link href={{ route('technology') }}>Our Technology</a></li>
-                    <li class=nav-item><a class=nav-link href={{ route('dataCenter') }}>Data Centers</a></li>
-                    <li class=nav-item><a class=nav-link href={{ route('gameDetails') }}>Game Details</a></li>
-                </ul>
-            </li>
-
             <li class=menu-item>
                 <a href={{ route('about') }} class=hostie-dropdown-main-element>About</a>
             </li>
 
-            <li class=menu-item hostie-has-dropdown>
-                <a href=# class=hostie-dropdown-main-element>Support</a>
-                <ul class=hostie-submenu list-unstyled menu-pages>
-                    <li class=nav-item><a class=nav-link href={{ route('contact') }}>Contact Us</a></li>
-                    <li class=nav-item><a class=nav-link href={{ route('faq') }}>FAQ</a></li>
-                    <li class=nav-item><a class=nav-link href={{ route('knowledgebase') }}>Knowledgebase</a></li>
-                    <li class=nav-item><a class=nav-link href="https://vortexgamehosting.co.uk/billing/submitticket.php" target=_blank rel=noopener noreferrer>Submit a Ticket</a></li>
-                </ul>
+            <li class=menu-item>
+                <a href={{ route('contact') }} class=hostie-dropdown-main-element>Contact</a>
             </li>
 
         </ul>
