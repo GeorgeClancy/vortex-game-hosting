@@ -1,0 +1,21 @@
+<svg width="180" height="36" viewBox="0 0 180 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon: purple rounded square with lightning bolt -->
+  <rect x="0" y="2" width="32" height="32" rx="5" fill="#6c2bd9"/>
+  <!-- Lightning bolt (white) — classic Z-bolt polygon -->
+  <polygon points="17,5 9,21 15,21 9,33 23,17 17,17" fill="white"/>
+  <!-- Accent dot on bolt tip -->
+  <circle cx="9" cy="33" r="1.5" fill="#00d4ff"/>
+  <!-- VORTEX wordmark -->
+  <text x="40" y="23"
+    font-family="'Arial Narrow','Trebuchet MS',Arial,sans-serif"
+    font-weight="700"
+    font-size="20"
+    letter-spacing="2"
+    fill="white">VORTEX</text>
+  <!-- GAME HOSTING subtitle -->
+  <text x="41" y="34"
+    font-family="Arial,sans-serif"
+    font-size="8"
+    letter-spacing="3.5"
+    fill="#00d4ff">GAME HOSTING</text>
+</svg>
