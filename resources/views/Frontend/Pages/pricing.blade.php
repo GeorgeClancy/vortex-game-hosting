@@ -45,618 +45,245 @@
         <div class="container">
             <div class="row">
                 <div class="row justify-content-center">
-                    <h4 class="title fw-bold mb--25">Feature</h4>
+                    <h4 class="title fw-bold mb--25">Game Server Pricing</h4>
                     <div class="rts-pricing-plan__tab pricing__tab">
-                        <div class="tab__button">
-                            <div class="tab__button__item">
+                        <div class="tab__button"><div class="tab__button__item">
                                 <button class="active tab__btn" data-tab="monthly">monthly</button>
                                 <button class="tab__btn" data-tab="yearly">yearly</button>
-                            </div>
-                        </div>
-                        <div class="discount">
-                            <p>20% save</p>
-                        </div>
+                        </div></div>
+                        <div class="discount"><p>20% save</p></div>
                     </div>
                 </div>
 
-                <!-- PRICING PLAN -->
+                <!-- PRICING PLAN MONTHLY -->
                 <div class="col-lg-12">
                     <div class="tab__content  open" id="monthly">
                         <table class="table table-hover table-responsive">
-                            <thead class="heading__bg">
-                                <tr>
-                                    <th class="cell">Value</th>
-                                    <th class="cell">Core</th>
-                                    <th class="cell">RAM</th>
-                                    <th class="cell">Storage</th>
+                            <thead class="heading__bg"><tr>
+                                    <th class="cell">Game</th>
                                     <th class="cell">Monthly Price</th>
                                     <th class="cell"></th>
-                                </tr>
-                            </thead>
+                                </tr></thead>
                             <tbody class="table__content">
                                 <tr>
-                                    <td class="package">Standard 4</td>
-                                    <td class="process">Intel Xeon 4-Core 8-Thread</td>
-                                    <td class="ram">4 GB</td>
-                                    <td class="storage">1 TB HDD</td>
-                                    <td class="price"><span rt-currency-symbol>$</span><span rt-price>167.00</span> /mo</td>
-                                    <td>
-                                        <div class="btn__two primary__btn">sign up</div>
-                                    </td>
+                                    <td class="package"><strong>Minecraft</strong><br><small class="text-muted">Survival, creative & modded play</small></td>
+                                    <td class="price">£1.49<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=20" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="package">Standard 4</td>
-                                    <td class="process">Intel Xeon 4-Core 8-Thread</td>
-                                    <td class="ram">8 GB</td>
-                                    <td class="storage">1 TB HDD</td>
-                                    <td class="price"><span rt-currency-symbol>$</span><span rt-price>199.00</span> /mo</td>
-                                    <td>
-                                        <div class="btn__two primary__btn">sign up</div>
-                                    </td>
+                                    <td class="package"><strong>Palworld</strong><br><small class="text-muted">Open-world creature survival</small></td>
+                                    <td class="price">£1.49<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=23" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="package">Standard 8</td>
-                                    <td class="process">Intel Xeon 4-Core 8-Thread</td>
-                                    <td class="ram">16 GB</td>
-                                    <td class="storage">1 TB HDD</td>
-                                    <td class="price"><span rt-currency-symbol>$</span><span rt-price>299.00</span> /mo</td>
-                                    <td>
-                                        <div class="btn__two primary__btn">sign up</div>
-                                    </td>
+                                    <td class="package"><strong>Garry's Mod</strong><br><small class="text-muted">Physics sandbox multiplayer</small></td>
+                                    <td class="price">£2.24<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=21" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="package">Standard 16</td>
-                                    <td class="process">Intel Xeon 12-Core 24-Thread</td>
-                                    <td class="ram">16 GB</td>
-                                    <td class="storage">2 TB HDD</td>
-                                    <td class="price"><span rt-currency-symbol>$</span><span rt-price>399.00</span> /mo</td>
-                                    <td>
-                                        <div class="btn__two primary__btn">sign up</div>
-                                    </td>
+                                    <td class="package"><strong>Valheim</strong><br><small class="text-muted">Viking survival multiplayer</small></td>
+                                    <td class="price">£3.75<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=28" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="package">Enhanced 32</td>
-                                    <td class="process">Intel Xeon 12-Core 24-Thread</td>
-                                    <td class="ram">32 GB</td>
-                                    <td class="storage">2 TB HDD</td>
-                                    <td class="price"><span rt-currency-symbol>$</span><span rt-price>499.00</span> /mo</td>
-                                    <td>
-                                        <div class="btn__two primary__btn">sign up</div>
-                                    </td>
+                                    <td class="package"><strong>ARK: Survival Evolved</strong><br><small class="text-muted">Dino survival open world</small></td>
+                                    <td class="price">£4.49<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=18" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="package">Enhanced 64</td>
-                                    <td class="process">Intel Xeon 12-Core 24-Thread</td>
-                                    <td class="ram">64 GB</td>
-                                    <td class="storage">2 TB HDD</td>
-                                    <td class="price"><span rt-currency-symbol>$</span><span rt-price>599.00</span> /mo</td>
-                                    <td>
-                                        <div class="btn__two primary__btn">sign up</div>
-                                    </td>
+                                    <td class="package"><strong>Arma 3</strong><br><small class="text-muted">Military tactical simulation</small></td>
+                                    <td class="price">£5.25<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=16" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="package">Enhanced SSD 16</td>
-                                    <td class="process">Intel Xeon 12-Core 24-Thread</td>
-                                    <td class="ram">16 GB</td>
-                                    <td class="storage">240 GB SSD</td>
-                                    <td class="price"><span rt-currency-symbol>$</span><span rt-price>299.00</span> /mo</td>
-                                    <td>
-                                        <div class="btn__two primary__btn">sign up</div>
-                                    </td>
+                                    <td class="package"><strong>Arma Reforger</strong><br><small class="text-muted">Modern military sandbox</small></td>
+                                    <td class="price">£5.25<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=17" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="package">Enhanced SSD 64</td>
-                                    <td class="process">Intel Xeon 12-Core 24-Thread</td>
-                                    <td class="ram">64 GB</td>
-                                    <td class="storage">240 GB SSD</td>
-                                    <td class="price"><span rt-currency-symbol>$</span><span rt-price>399.00</span> /mo</td>
-                                    <td>
-                                        <div class="btn__two primary__btn">sign up</div>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <div class="additional-content">
-                            <div class="plan-extra">
-                                <p class="text-capitalize text-center font-small">all plan come with</p>
-                            </div>
-                        </div>
-                        <table class="table table-hover table-responsive table-bottom">
-                            <tbody class="table__content">
-                                <tr>
-                                    <td class="package">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> 300 Websites</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs.">
-                                                <i class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="process">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Unlimited Bandwidth</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="ram">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Unlimited Bandwidth</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="storage">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Unlimited Bandwidth</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                            title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-
+                                    <td class="package"><strong>The Forest</strong><br><small class="text-muted">Horror survival & building</small></td>
+                                    <td class="price">£6.00<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=25" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="package">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Free Domain ($9.99 value)</span>
-                                        </span>
-                                    </td>
-                                    <td class="process">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="ram">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="storage">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
+                                    <td class="package"><strong>Scum</strong><br><small class="text-muted">Open-world hardcore survival</small></td>
+                                    <td class="price">£7.50<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=29" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="package">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> 24/7/365 Support</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="process">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> 250 GB NVMe Storage</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="ram">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> 250 GB NVMe Storage</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="storage">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> 250 GB NVMe Storage</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
+                                    <td class="package"><strong>DayZ</strong><br><small class="text-muted">Post-apocalyptic survival</small></td>
+                                    <td class="price">£7.86<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=19" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
-                                    <td class="package">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="process">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="ram">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
-                                    <td class="storage">
-                                        <span class="content">
-                                            <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                        <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                                class="fa-light fa-circle-question"></i>
-                                            </span>
-                                        </span>
-                                    </td>
+                                    <td class="package"><strong>7 Days to Die</strong><br><small class="text-muted">Zombie survival & tower defence</small></td>
+                                    <td class="price">£10.99<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=1" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
-                            </tbody>
-                        </table>
+                                <tr>
+                                    <td class="package"><strong>The Isle</strong><br><small class="text-muted">Dinosaur survival simulation</small></td>
+                                    <td class="price">£15.01<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=26" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>Unturned</strong><br><small class="text-muted">Open-world zombie survival</small></td>
+                                    <td class="price">£19.51<small>/mo</small></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=27" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                            </tbody></table>
+                        <div class="additional-content"><div class="plan-extra"><p class="text-capitalize text-center font-small">all plans include</p></div></div>
+                        <table class="table table-hover table-responsive table-bottom"><tbody class="table__content">
+                                <tr>
+                                    <td class="package"><span class="content"><span class="text"><i class="fa-regular fa-check"></i> DDoS Protection</span></span></td>
+                                    <td class="process"><span class="content"><span class="text"><i class="fa-regular fa-check"></i> Instant Deployment</span></span></td>
+                                    <td class="ram"><span class="content"><span class="text"><i class="fa-regular fa-check"></i> TCAdmin Panel</span></span></td>
+                                    <td class="storage"><span class="content"><span class="text"><i class="fa-regular fa-check"></i> 24/7 Support</span></span></td>
+                                </tr>
+                        </tbody></table>
                     </div>
                 </div>
 
-                <!-- PRICING PLAN -->
+                <!-- PRICING PLAN YEARLY -->
                 <div class="tab__content" id="yearly">
-                    <table class="table">
-                        <thead class="heading__bg">
-                            <tr>
-                                <th class="cell">Value</th>
-                                <th class="cell">Core</th>
-                                <th class="cell">RAM</th>
-                                <th class="cell">Storage</th>
-                                <th class="cell">Monthly Price</th>
+                    <table class="table table-hover table-responsive">
+                        <thead class="heading__bg"><tr>
+                                <th class="cell">Game</th>
+                                <th class="cell">Yearly Price (billed annually)</th>
                                 <th class="cell"></th>
-                            </tr>
-                        </thead>
+                            </tr></thead>
                         <tbody class="table__content">
-                            <tr>
-                                <td class="package">Standard 4</td>
-                                <td class="process">Intel Xeon 4-Core 8-Thread</td>
-                                <td class="ram">4 GB</td>
-                                <td class="storage">1 TB HDD</td>
-                                <td class="price"><span rt-currency-symbol>$</span><span rt-price>367.00</span>/mo</td>
-                                <td>
-                                    <div class="btn__two primary__btn">sign up</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="package">Standard 4</td>
-                                <td class="process">Intel Xeon 4-Core 8-Thread</td>
-                                <td class="ram">8 GB</td>
-                                <td class="storage">1 TB HDD</td>
-                                <td class="price"><span rt-currency-symbol>$</span><span rt-price>499.00</span>/mo</td>
-                                <td>
-                                    <div class="btn__two primary__btn">sign up</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="package">Standard 8</td>
-                                <td class="process">Intel Xeon 4-Core 8-Thread</td>
-                                <td class="ram">16 GB</td>
-                                <td class="storage">1 TB HDD</td>
-                                <td class="price"><span rt-currency-symbol>$</span><span rt-price>599.00</span>/mo</td>
-                                <td>
-                                    <div class="btn__two primary__btn">sign up</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="package">Standard 16</td>
-                                <td class="process">Intel Xeon 12-Core 24-Thread</td>
-                                <td class="ram">16 GB</td>
-                                <td class="storage">2 TB HDD</td>
-                                <td class="price"><span rt-currency-symbol>$</span><span rt-price>499.00</span>/mo</td>
-                                <td>
-                                    <div class="btn__two primary__btn">sign up</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="package">Enhanced 32</td>
-                                <td class="process">Intel Xeon 12-Core 24-Thread</td>
-                                <td class="ram">32 GB</td>
-                                <td class="storage">2 TB HDD</td>
-                                <td class="price"><span rt-currency-symbol>$</span><span rt-price>699.00</span>/mo</td>
-                                <td>
-                                    <div class="btn__two primary__btn">sign up</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="package">Enhanced 64</td>
-                                <td class="process">Intel Xeon 12-Core 24-Thread</td>
-                                <td class="ram">64 GB</td>
-                                <td class="storage">2 TB HDD</td>
-                                <td class="price"><span rt-currency-symbol>$</span><span rt-price>799.00</span>/mo</td>
-                                <td>
-                                    <div class="btn__two primary__btn">sign up</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="package">Enhanced SSD 16</td>
-                                <td class="process">Intel Xeon 12-Core 24-Thread</td>
-                                <td class="ram">16 GB</td>
-                                <td class="storage">240 GB SSD</td>
-                                <td class="price"><span rt-currency-symbol>$</span><span rt-price>899.00</span>/mo</td>
-                                <td>
-                                    <div class="btn__two primary__btn">sign up</div>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="package">Enhanced SSD 64</td>
-                                <td class="process">Intel Xeon 12-Core 24-Thread</td>
-                                <td class="ram">64 GB</td>
-                                <td class="storage">240 GB SSD</td>
-                                <td class="price"><span rt-currency-symbol>$</span><span rt-price>599.00</span>/mo</td>
-                                <td>
-                                    <div class="btn__two primary__btn">sign up</div>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <div class="additional-content">
-                        <div class="plan-extra">
-                            <p class="text-capitalize text-center font-small">all plan come with</p>
-                        </div>
-                    </div>
-                    <table class="table table-hover table-responsive table-bottom">
-                        <tbody class="table__content">
-                            <tr>
-                                <td class="package">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> 300 Websites</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs.">
-                                            <i class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="process">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Unlimited Bandwidth</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                        title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                        class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="ram">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Unlimited Bandwidth</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                        title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                        class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="storage">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Unlimited Bandwidth</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom"
-                                        title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                        class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-
-                            </tr>
-                            <tr>
-                                <td class="package">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Free Domain ($9.99 value)</span>
-                                    </span>
-                                </td>
-                                <td class="process">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="ram">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="storage">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="package">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> 24/7/365 Support</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="process">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> 250 GB NVMe Storage</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="ram">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> 250 GB NVMe Storage</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="storage">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> 250 GB NVMe Storage</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="package">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="process">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="ram">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                                <td class="storage">
-                                    <span class="content">
-                                        <span class="text"><i class="fa-regular fa-check"></i> Unlimited Free SSL</span>
-                                    <span class="tolltip" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Unlock superior online experiences with our Unlimited Free SSL solutions, ensuring reliability, speed, and seamless functionality for your website needs."><i
-                                            class="fa-light fa-circle-question"></i>
-                                        </span>
-                                    </span>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
+                                <tr>
+                                    <td class="package"><strong>Minecraft</strong><br><small class="text-muted">Survival, creative & modded play</small></td>
+                                    <td class="price">£1.19<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=20&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>Palworld</strong><br><small class="text-muted">Open-world creature survival</small></td>
+                                    <td class="price">£1.19<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=23&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>Garry's Mod</strong><br><small class="text-muted">Physics sandbox multiplayer</small></td>
+                                    <td class="price">£1.79<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=21&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>Valheim</strong><br><small class="text-muted">Viking survival multiplayer</small></td>
+                                    <td class="price">£3.00<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=28&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>ARK: Survival Evolved</strong><br><small class="text-muted">Dino survival open world</small></td>
+                                    <td class="price">£3.59<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=18&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>Arma 3</strong><br><small class="text-muted">Military tactical simulation</small></td>
+                                    <td class="price">£4.20<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=16&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>Arma Reforger</strong><br><small class="text-muted">Modern military sandbox</small></td>
+                                    <td class="price">£4.20<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=17&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>The Forest</strong><br><small class="text-muted">Horror survival & building</small></td>
+                                    <td class="price">£4.80<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=25&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>Scum</strong><br><small class="text-muted">Open-world hardcore survival</small></td>
+                                    <td class="price">£6.00<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=29&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>DayZ</strong><br><small class="text-muted">Post-apocalyptic survival</small></td>
+                                    <td class="price">£6.29<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=19&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>7 Days to Die</strong><br><small class="text-muted">Zombie survival & tower defence</small></td>
+                                    <td class="price">£8.79<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=1&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>The Isle</strong><br><small class="text-muted">Dinosaur survival simulation</small></td>
+                                    <td class="price">£12.01<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=26&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                                <tr>
+                                    <td class="package"><strong>Unturned</strong><br><small class="text-muted">Open-world zombie survival</small></td>
+                                    <td class="price">£15.61<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=27&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
+                                </tr>
+                        </tbody></table>
+                    <div class="additional-content"><div class="plan-extra"><p class="text-capitalize text-center font-small">all plans include</p></div></div>
+                    <table class="table table-hover table-responsive table-bottom"><tbody class="table__content">
+                                <tr>
+                                    <td class="package"><span class="content"><span class="text"><i class="fa-regular fa-check"></i> DDoS Protection</span></span></td>
+                                    <td class="process"><span class="content"><span class="text"><i class="fa-regular fa-check"></i> Instant Deployment</span></span></td>
+                                    <td class="ram"><span class="content"><span class="text"><i class="fa-regular fa-check"></i> TCAdmin Panel</span></span></td>
+                                    <td class="storage"><span class="content"><span class="text"><i class="fa-regular fa-check"></i> 24/7 Support</span></span></td>
+                                </tr>
+                    </tbody></table>
                 </div>
 
+            </div></div></div>
+    <!-- PRICING PLAN END -->
+
+    <!-- FAQ -->
+    <div class="rts-hosting-faq section__padding"><div class="container">
+        <div class="row justify-content-center"><div class="col-lg-8">
+            <div class="rts-section text-center">
+                <h2 class="rts-section__title mb-0">Frequently asked questions</h2>
+            </div>
+            <div class="rts-faq__accordion"><div class="accordion accordion-flush" id="rts-accordion">
+                <div class="accordion-item active"><div class="accordion-header" id="first">
+                    <h4 class="accordion-button collapse show" data-bs-toggle="collapse" data-bs-target="#item__one">How quickly can I get my server up and running?</h4>
+                </div><div id="item__one" class="accordion-collapse collapse show" data-bs-parent="#rts-accordion">
+                    <div class="accordion-body">Your server is deployed instantly after payment. You'll receive your TCAdmin login details by email and can be in-game within minutes.</div>
+                </div></div>
+                <div class="accordion-item"><div class="accordion-header" id="two">
+                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__two">Can I upgrade or change my server later?</h4>
+                </div><div id="item__two" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
+                    <div class="accordion-body">Yes. You can upgrade your server resources at any time from your client area. Changes take effect immediately with no data loss.</div>
+                </div></div>
+                <div class="accordion-item"><div class="accordion-header" id="three">
+                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__three">Is DDoS protection included on all plans?</h4>
+                </div><div id="item__three" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
+                    <div class="accordion-body">Yes. All game servers come with DDoS protection included at no extra cost, keeping your server online during attacks.</div>
+                </div></div>
+                <div class="accordion-item"><div class="accordion-header" id="four">
+                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__four">Can I install mods and plugins?</h4>
+                </div><div id="item__four" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
+                    <div class="accordion-body">Absolutely. Our servers fully support mods, plugins, and custom configurations including CurseForge, Bukkit/Spigot, and Steam Workshop.</div>
+                </div></div>
+                <div class="accordion-item"><div class="accordion-header" id="five">
+                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__five">How do I get support if I have an issue?</h4>
+                </div><div id="item__five" class="accordion-collapse collapse" data-bs-parent="#rts-accordion">
+                    <div class="accordion-body">Submit a support ticket from your client area or our contact page. Our team is available 24/7 to help with any server issues.</div>
+                </div></div>
+            </div></div>
+        </div></div>
+    </div></div>
+    <!-- FAQ END -->
+
+    <!-- CTA -->
+    <div class="rts-cta-two shared-page-bg"><div class="container"><div class="row">
+        <div class="rts-cta-two__wrapper"><div class="cta__shape"></div>
+            <div class="cta-content">
+                <span>Need help choosing a plan?</span>
+                <h4>Not sure which server is right for you?</h4>
+            </div>
+            <div class="cta-btn">
+                <a href="{{route('contact')}}" class="contact__us primary__btn btn__two secondary__bg secondary__color">Contact Us</a>
             </div>
         </div>
-    </div>
-    <!-- PRICING PLAN START END -->
-
-    <!-- SHARED HOSTING FAQ -->
-    <div class="rts-hosting-faq section__padding">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="rts-section text-center">
-                        <h2 class="rts-section__title mb-0" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">Frequently asked questions</h2>
-                    </div>
-                    <div class="rts-faq__accordion" data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">
-                        <div class="accordion accordion-flush" id="rts-accordion">
-                            <div class="accordion-item active">
-                                <div class="accordion-header" id="first">
-                                    <h4 class="accordion-button collapse show" data-bs-toggle="collapse" data-bs-target="#item__one" aria-expanded="false" aria-controls="item__one">
-                                        Why buy a domain name from hostie?
-                                    </h4>
-                                </div>
-                                <div id="item__one" class="accordion-collapse collapse collapse show" aria-labelledby="first" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        Above all else, we strive to deliver outstanding customer experiences. When you buy a domain name from hostie, we guarantee it will be handed over.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="two">
-                                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__two" aria-expanded="false" aria-controls="item__two">
-                                        How does domain registration work?
-                                    </h4>
-                                </div>
-                                <div id="item__two" class="accordion-collapse collapse" aria-labelledby="two" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        Above all else, we strive to deliver outstanding customer experiences. When you buy a domain name from hostie, we guarantee it will be handed over.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="three">
-                                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__three" aria-expanded="false" aria-controls="item__three">
-                                        Why is domain name registration required?
-                                    </h4>
-                                </div>
-                                <div id="item__three" class="accordion-collapse collapse" aria-labelledby="three" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        Above all else, we strive to deliver outstanding customer experiences. When you buy a domain name from hostie, we guarantee it will be handed over.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="four">
-                                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__four" aria-expanded="false" aria-controls="item__four">
-                                        Why is domain name registration required?
-                                    </h4>
-                                </div>
-                                <div id="item__four" class="accordion-collapse collapse" aria-labelledby="four" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        Above all else, we strive to deliver outstanding customer experiences. When you buy a domain name from hostie, we guarantee it will be handed over.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="accordion-item">
-                                <div class="accordion-header" id="five">
-                                    <h4 class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#item__five" aria-expanded="false" aria-controls="item__four">
-                                        Why is domain name registration required?
-                                    </h4>
-                                </div>
-                                <div id="item__five" class="accordion-collapse collapse" aria-labelledby="five" data-bs-parent="#rts-accordion">
-                                    <div class="accordion-body">
-                                        Above all else, we strive to deliver outstanding customer experiences. When you buy a domain name from hostie, we guarantee it will be handed over.
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-    <!-- SHARED HOSTING FAQ END -->
-
-
-    <!-- HOSTIE CTA -->
-    <div class="rts-cta-two shared-page-bg">
-        <div class="container">
-            <div class="row">
-                <div class="rts-cta-two__wrapper">
-                    <div class="cta__shape"></div>
-                    <div class="cta-content">
-                        <span data-sal="slide-down" data-sal-delay="100" data-sal-duration="800">Need help choosing a plan?</span>
-                        <h4 data-sal="slide-down" data-sal-delay="200" data-sal-duration="800">Need help?
-                            We're always here for you.</h4>
-                    </div>
-                    <div class="cta-btn">
-                        <a href="{{route('support')}}" class="contact__us primary__btn btn__two secondary__bg secondary__color">Go to Live chat Page</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- HOSTIE CTA END -->
+    </div></div></div>
+    <!-- CTA END -->
 
     <!-- FOOTER AREA -->
-    @include('Frontend.Includes.Footers.footerTwo')
+    @include('Frontend.Includes.Footers.footerFive')
     <!-- FOOTER AREA END -->
 @endsection
