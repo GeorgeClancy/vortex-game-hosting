@@ -10,14 +10,20 @@
                 <li class="has-droupdown">
                     <a href="#" class="main">Game Servers</a>
                     <ul class="submenu mm-collapse">
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/minecraft" target="_blank" rel="noopener noreferrer">Minecraft</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/valheim" target="_blank" rel="noopener noreferrer">Valheim</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/dayz" target="_blank" rel="noopener noreferrer">DayZ</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/ark-se" target="_blank" rel="noopener noreferrer">Ark SE</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/palworld" target="_blank" rel="noopener noreferrer">Palworld</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/scum" target="_blank" rel="noopener noreferrer">Scum</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers/7dtd" target="_blank" rel="noopener noreferrer">7 Days to Die</a></li>
-                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/index.php?rp=/store/game-servers" target="_blank" rel="noopener noreferrer">View All Games</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=20" target="_blank" rel="noopener noreferrer">Minecraft</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=19" target="_blank" rel="noopener noreferrer">DayZ</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=18" target="_blank" rel="noopener noreferrer">Ark SE</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=28" target="_blank" rel="noopener noreferrer">Valheim</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=23" target="_blank" rel="noopener noreferrer">Palworld</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=29" target="_blank" rel="noopener noreferrer">Scum</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=1" target="_blank" rel="noopener noreferrer">7 Days to Die</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=21" target="_blank" rel="noopener noreferrer">Garry's Mod</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=25" target="_blank" rel="noopener noreferrer">The Forest</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=16" target="_blank" rel="noopener noreferrer">Arma 3</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=17" target="_blank" rel="noopener noreferrer">Arma Reforger</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=26" target="_blank" rel="noopener noreferrer">The Isle</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=27" target="_blank" rel="noopener noreferrer">Unturned</a></li>
+                        <li><a class="mobile-menu-link" href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=30" target="_blank" rel="noopener noreferrer">Abiotic Factor</a></li>
                     </ul>
                 </li>
                 <li>
