@@ -72,17 +72,17 @@
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Palworld</strong><br><small class="text-muted">Open-world creature survival</small></td>
-                                    <td class="price">£{{ $prices[23]["monthly"] ?? '1.49' }}<small>/mo</small></td>
+                                    <td class="price">£{{ $prices[23]["monthly"] ?? '10.00' }}<small>/mo</small></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=23" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Garry's Mod</strong><br><small class="text-muted">Physics sandbox multiplayer</small></td>
-                                    <td class="price">£{{ $prices[21]["monthly"] ?? '2.24' }}<small>/mo</small></td>
+                                    <td class="price">£{{ $prices[21]["monthly"] ?? '5.00' }}<small>/mo</small></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=21" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Valheim</strong><br><small class="text-muted">Viking survival multiplayer</small></td>
-                                    <td class="price">£{{ $prices[28]["monthly"] ?? '3.75' }}<small>/mo</small></td>
+                                    <td class="price">£{{ $prices[28]["monthly"] ?? '6.00' }}<small>/mo</small></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=28" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
@@ -92,12 +92,12 @@
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Arma 3</strong><br><small class="text-muted">Military tactical simulation</small></td>
-                                    <td class="price">£{{ $prices[16]["monthly"] ?? '5.25' }}<small>/mo</small></td>
+                                    <td class="price">£{{ $prices[16]["monthly"] ?? '7.50' }}<small>/mo</small></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=16" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Arma Reforger</strong><br><small class="text-muted">Modern military sandbox</small></td>
-                                    <td class="price">£{{ $prices[17]["monthly"] ?? '5.25' }}<small>/mo</small></td>
+                                    <td class="price">£{{ $prices[17]["monthly"] ?? '8.20' }}<small>/mo</small></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=17" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
@@ -112,22 +112,22 @@
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>DayZ</strong><br><small class="text-muted">Post-apocalyptic survival</small></td>
-                                    <td class="price">£{{ $prices[19]["monthly"] ?? '7.86' }}<small>/mo</small></td>
+                                    <td class="price">£{{ $prices[19]["monthly"] ?? '7.50' }}<small>/mo</small></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=19" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>7 Days to Die</strong><br><small class="text-muted">Zombie survival & tower defence</small></td>
-                                    <td class="price">£{{ $prices[1]["monthly"] ?? '10.99' }}<small>/mo</small></td>
+                                    <td class="price">£{{ $prices[1]["monthly"] ?? '8.20' }}<small>/mo</small></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=1" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>The Isle</strong><br><small class="text-muted">Dinosaur survival simulation</small></td>
-                                    <td class="price">£{{ $prices[26]["monthly"] ?? '15.01' }}<small>/mo</small></td>
+                                    <td class="price">£{{ $prices[26]["monthly"] ?? '11.99' }}<small>/mo</small></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=26" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Unturned</strong><br><small class="text-muted">Open-world zombie survival</small></td>
-                                    <td class="price">£{{ $prices[27]["monthly"] ?? '19.51' }}<small>/mo</small></td>
+                                    <td class="price">£{{ $prices[27]["monthly"] ?? '15.99' }}<small>/mo</small></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=27" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                             </tbody></table>
@@ -159,17 +159,17 @@
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Palworld</strong><br><small class="text-muted">Open-world creature survival</small></td>
-                                    <td class="price">£{{ $prices[23]["annually"] ?? '1.19' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td class="price">£{{ $prices[23]["annually"] ?? '8.00' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=23&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Garry's Mod</strong><br><small class="text-muted">Physics sandbox multiplayer</small></td>
-                                    <td class="price">£{{ $prices[21]["annually"] ?? '1.79' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td class="price">£{{ $prices[21]["annually"] ?? '4.00' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=21&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Valheim</strong><br><small class="text-muted">Viking survival multiplayer</small></td>
-                                    <td class="price">£{{ $prices[28]["annually"] ?? '3.00' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td class="price">£{{ $prices[28]["annually"] ?? '4.80' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=28&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
@@ -179,12 +179,12 @@
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Arma 3</strong><br><small class="text-muted">Military tactical simulation</small></td>
-                                    <td class="price">£{{ $prices[16]["annually"] ?? '4.20' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td class="price">£{{ $prices[16]["annually"] ?? '6.00' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=16&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Arma Reforger</strong><br><small class="text-muted">Modern military sandbox</small></td>
-                                    <td class="price">£{{ $prices[17]["annually"] ?? '4.20' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td class="price">£{{ $prices[17]["annually"] ?? '6.56' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=17&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
@@ -199,22 +199,22 @@
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>DayZ</strong><br><small class="text-muted">Post-apocalyptic survival</small></td>
-                                    <td class="price">£{{ $prices[19]["annually"] ?? '6.29' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td class="price">£{{ $prices[19]["annually"] ?? '6.00' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=19&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>7 Days to Die</strong><br><small class="text-muted">Zombie survival & tower defence</small></td>
-                                    <td class="price">£{{ $prices[1]["annually"] ?? '8.79' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td class="price">£{{ $prices[1]["annually"] ?? '6.56' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=1&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>The Isle</strong><br><small class="text-muted">Dinosaur survival simulation</small></td>
-                                    <td class="price">£{{ $prices[26]["annually"] ?? '12.01' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td class="price">£{{ $prices[26]["annually"] ?? '9.59' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=26&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                                 <tr>
                                     <td class="package"><strong>Unturned</strong><br><small class="text-muted">Open-world zombie survival</small></td>
-                                    <td class="price">£{{ $prices[27]["annually"] ?? '15.61' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
+                                    <td class="price">£{{ $prices[27]["annually"] ?? '12.79' }}<small>/mo</small> <span class="badge bg-success" style="font-size:0.7em;">20% off</span></td>
                                     <td><a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=27&billingcycle=annually" class="btn__two primary__btn" target="_blank" rel="noopener noreferrer">Order Now</a></td>
                                 </tr>
                         </tbody></table>

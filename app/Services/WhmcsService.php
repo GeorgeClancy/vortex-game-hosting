@@ -13,18 +13,18 @@ class WhmcsService
      * Update these if you change prices in WHMCS and the API is temporarily down.
      */
     private const FALLBACK_PRICES = [
-        1  => ['name' => '7 Days to Die',         'monthly' => '10.99', 'annually' => '8.79'],
-        16 => ['name' => 'Arma 3',                 'monthly' => '5.25',  'annually' => '4.20'],
-        17 => ['name' => 'Arma Reforger',          'monthly' => '5.25',  'annually' => '4.20'],
+        1  => ['name' => '7 Days to Die',         'monthly' => '8.20',  'annually' => '6.56'],
+        16 => ['name' => 'Arma 3',                 'monthly' => '7.50',  'annually' => '6.00'],
+        17 => ['name' => 'Arma Reforger',          'monthly' => '8.20',  'annually' => '6.56'],
         18 => ['name' => 'ARK: Survival Evolved',  'monthly' => '4.49',  'annually' => '3.59'],
-        19 => ['name' => 'DayZ',                   'monthly' => '7.86',  'annually' => '6.29'],
+        19 => ['name' => 'DayZ',                   'monthly' => '7.50',  'annually' => '6.00'],
         20 => ['name' => 'Minecraft',              'monthly' => '1.49',  'annually' => '1.19'],
-        21 => ['name' => "Garry's Mod",            'monthly' => '2.24',  'annually' => '1.79'],
-        23 => ['name' => 'Palworld',               'monthly' => '1.49',  'annually' => '1.19'],
+        21 => ['name' => "Garry's Mod",            'monthly' => '5.00',  'annually' => '4.00'],
+        23 => ['name' => 'Palworld',               'monthly' => '10.00', 'annually' => '8.00'],
         25 => ['name' => 'The Forest',             'monthly' => '6.00',  'annually' => '4.80'],
-        26 => ['name' => 'The Isle',               'monthly' => '15.01', 'annually' => '12.01'],
-        27 => ['name' => 'Unturned',               'monthly' => '19.51', 'annually' => '15.61'],
-        28 => ['name' => 'Valheim',                'monthly' => '3.75',  'annually' => '3.00'],
+        26 => ['name' => 'The Isle',               'monthly' => '11.99', 'annually' => '9.59'],
+        27 => ['name' => 'Unturned',               'monthly' => '15.99', 'annually' => '12.79'],
+        28 => ['name' => 'Valheim',                'monthly' => '6.00',  'annually' => '4.80'],
         29 => ['name' => 'Scum',                   'monthly' => '7.50',  'annually' => '6.00'],
     ];
 
