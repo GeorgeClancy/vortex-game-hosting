@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\FrontendController;
 
 use App\Http\Controllers\Controller;
+use App\Services\WhmcsService;
 use Illuminate\Http\Request;
 
 class PageController extends Controller
@@ -25,10 +26,11 @@ class PageController extends Controller
         $bodyClass = 'page-template template-resell';
         return view('Frontend.Pages.about', compact('bodyClass'));
     }
-    // Pricing 
-    public function pricing(){
+    // Pricing
+    public function pricing(WhmcsService $whmcs){
         $bodyClass = 'page-template template-pricing';
-        return view('Frontend.Pages.pricing', compact('bodyClass'));
+        $prices = $whmcs->getPrices();
+        return view('Frontend.Pages.pricing', compact('bodyClass', 'prices'));
     }
     // pricingPackage 
     public function pricingPackage(){

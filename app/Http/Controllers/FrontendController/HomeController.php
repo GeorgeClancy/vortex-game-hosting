@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\FrontendController;
 
 use App\Http\Controllers\Controller;
+use App\Services\WhmcsService;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -42,10 +43,11 @@ class HomeController extends Controller
         $bodyClass = '';
         return view('Frontend.Homes.indexSix', compact('bodyClass'));
     }
-    // Home Seven 
-    public function indexSeven(){
+    // Home Seven
+    public function indexSeven(WhmcsService $whmcs){
         $bodyClass = 'template-game';
-        return view('Frontend.Homes.indexSeven', compact('bodyClass'));
+        $prices = $whmcs->getPrices();
+        return view('Frontend.Homes.indexSeven', compact('bodyClass', 'prices'));
     }
     // Home Eight 
     public function indexEight(){

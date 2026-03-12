@@ -253,7 +253,7 @@
                                     </ul>
                                 </div>
                                 <a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=20" class="buy__plan btn__two" target="_blank" rel="noopener noreferrer">
-                                    From £1.49/mo — Order Now
+                                    From £{{ $prices[20]["monthly"] ?? "1.49" }}/mo — Order Now
                                 </a>
                             </div>
                         </div>
@@ -287,7 +287,7 @@
                                     </ul>
                                 </div>
                                 <a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=28" class="buy__plan btn__two" target="_blank" rel="noopener noreferrer">
-                                    From £3.75/mo — Order Now
+                                    From £{{ $prices[28]["monthly"] ?? "3.75" }}/mo — Order Now
                                 </a>
                             </div>
                         </div>
@@ -321,7 +321,7 @@
                                     </ul>
                                 </div>
                                 <a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=19" class="buy__plan btn__two" target="_blank" rel="noopener noreferrer">
-                                    From £7.86/mo — Order Now
+                                    From £{{ $prices[19]["monthly"] ?? "7.86" }}/mo — Order Now
                                 </a>
                             </div>
                         </div>
@@ -359,7 +359,7 @@
                                     </ul>
                                 </div>
                                 <a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=20&billingcycle=annually" class="buy__plan btn__two" target="_blank" rel="noopener noreferrer">
-                                    From £1.19/mo — Order Now
+                                    From £{{ $prices[20]["annually"] ?? "1.19" }}/mo — Order Now
                                 </a>
                             </div>
                         </div>
@@ -393,7 +393,7 @@
                                     </ul>
                                 </div>
                                 <a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=28&billingcycle=annually" class="buy__plan btn__two" target="_blank" rel="noopener noreferrer">
-                                    From £3.00/mo — Order Now
+                                    From £{{ $prices[28]["annually"] ?? "3.00" }}/mo — Order Now
                                 </a>
                             </div>
                         </div>
@@ -427,7 +427,7 @@
                                     </ul>
                                 </div>
                                 <a href="https://vortexgamehosting.co.uk/billing/cart.php?a=add&pid=19&billingcycle=annually" class="buy__plan btn__two" target="_blank" rel="noopener noreferrer">
-                                    From £6.29/mo — Order Now
+                                    From £{{ $prices[19]["annually"] ?? "6.29" }}/mo — Order Now
                                 </a>
                             </div>
                         </div>
