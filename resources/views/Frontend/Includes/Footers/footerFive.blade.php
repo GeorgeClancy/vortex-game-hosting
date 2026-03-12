@@ -4,7 +4,7 @@
             <!-- widget: brand -->
             <div class="col-lg-3 col-md-5 col-sm-6 rts-footer__widget--column">
                 <div class="rts-footer__widget footer__widget w-300">
-                    <a href="{{ route('indexSeven') }}" class="footer__logo">
+                    <a href="{{ route('home') }}" class="footer__logo">
                         <img src="{{asset('assets/images/logo/footer__game__logo.svg')}}" alt="Vortex Game Hosting">
                     </a>
                     <p class="brand-desc">Premium game server hosting with 99.9% uptime. Deploy your server in seconds and dominate the competition.</p>

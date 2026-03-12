@@ -230,7 +230,7 @@
                         <div class="single-plan">
                             <div class="single-plan__content">
                                 <div class="plan-game-image">
-                                    <img src="{{ asset('assets/images/game/collection/03.jpg') }}" alt="Minecraft" style="width:100%;height:160px;object-fit:cover;border-radius:8px 8px 0 0;">
+                                    <img src="{{ asset('assets/images/game/collection/01.jpg') }}" alt="Minecraft" style="width:100%;height:160px;object-fit:cover;border-radius:8px 8px 0 0;">
                                 </div>
                                 <h4 class="plan-title" style="margin-top:16px;">Minecraft</h4>
                                 <p class="description">Survival, creative & modded play</p>
@@ -298,7 +298,7 @@
                         <div class="single-plan">
                             <div class="single-plan__content">
                                 <div class="plan-game-image">
-                                    <img src="{{ asset('assets/images/game/collection/05.jpg') }}" alt="DayZ" style="width:100%;height:160px;object-fit:cover;border-radius:8px 8px 0 0;">
+                                    <img src="{{ asset('assets/images/game/collection/02.jpg') }}" alt="DayZ" style="width:100%;height:160px;object-fit:cover;border-radius:8px 8px 0 0;">
                                 </div>
                                 <h4 class="plan-title" style="margin-top:16px;">DayZ</h4>
                                 <p class="description">Open-world hardcore survival</p>
@@ -336,7 +336,7 @@
                         <div class="single-plan">
                             <div class="single-plan__content">
                                 <div class="plan-game-image">
-                                    <img src="{{ asset('assets/images/game/collection/03.jpg') }}" alt="Minecraft" style="width:100%;height:160px;object-fit:cover;border-radius:8px 8px 0 0;">
+                                    <img src="{{ asset('assets/images/game/collection/01.jpg') }}" alt="Minecraft" style="width:100%;height:160px;object-fit:cover;border-radius:8px 8px 0 0;">
                                 </div>
                                 <h5 class="plan-title" style="margin-top:16px;">Minecraft</h5>
                                 <p class="description">Survival, creative &amp; modded play</p>
@@ -404,7 +404,7 @@
                         <div class="single-plan">
                             <div class="single-plan__content">
                                 <div class="plan-game-image">
-                                    <img src="{{ asset('assets/images/game/collection/05.jpg') }}" alt="DayZ" style="width:100%;height:160px;object-fit:cover;border-radius:8px 8px 0 0;">
+                                    <img src="{{ asset('assets/images/game/collection/02.jpg') }}" alt="DayZ" style="width:100%;height:160px;object-fit:cover;border-radius:8px 8px 0 0;">
                                 </div>
                                 <h5 class="plan-title" style="margin-top:16px;">DayZ</h5>
                                 <p class="description">Open-world hardcore survival</p>

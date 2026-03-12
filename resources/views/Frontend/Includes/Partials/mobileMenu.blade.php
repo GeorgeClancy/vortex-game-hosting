@@ -5,7 +5,7 @@
         <nav class="nav-main mainmenu-nav mt--30">
             <ul class="mainmenu metismenu" id="mobile-menu-active">
                 <li>
-                    <a href="{{ route('indexSeven') }}" class="mobile-menu-link">Home</a>
+                    <a href="{{ route('home') }}" class="mobile-menu-link">Home</a>
                 </li>
                 <li class="has-droupdown">
                     <a href="#" class="main">Game Servers</a>

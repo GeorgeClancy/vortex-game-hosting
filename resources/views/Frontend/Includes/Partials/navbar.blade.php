@@ -3,7 +3,7 @@
         <ul class=list-unstyled hostie-desktop-menu>
 
             <li class=menu-item>
-                <a href={{ route('indexSeven') }} class=hostie-dropdown-main-element>Home</a>
+                <a href={{ route('home') }} class=hostie-dropdown-main-element>Home</a>
             </li>
 
             <li class=menu-item hostie-has-dropdown mega-menu>
