@@ -19,9 +19,9 @@
                             </h1>
                             <div class="feature mb-0" data-sal="slide-down" data-sal-delay="300" data-sal-duration="800">
                                 <ul class="feature__list">
-                                    <li class="feature__item">24/7 Customer Support</li>
-                                    <li class="feature__item">Free Domain</li>
-                                    <li class="feature__item">Free Website Migration</li>
+                                    <li class="feature__item">24/7 Expert Support</li>
+                                    <li class="feature__item">DDoS Protection Included</li>
+                                    <li class="feature__item">Instant Server Deployment</li>
                                 </ul>
                             </div>
                         </div>
